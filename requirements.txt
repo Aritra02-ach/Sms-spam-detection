@@ -36,6 +36,7 @@ nbclient==0.10.0
 nbconvert==7.16.3
 nbformat==5.10.3
 numpy==1.26.4
+nltk
 packaging==23.2
 pandas==2.2.1
 pandocfilters==1.5.1
