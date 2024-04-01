@@ -65,7 +65,7 @@ smmap==5.0.1
 soupsieve==2.5
 stack-data==0.6.3
 streamlit==1.32.2
-sklearn
+scikit-learn
 tenacity==8.2.3
 tinycss2==1.2.1
 toml==0.10.2
